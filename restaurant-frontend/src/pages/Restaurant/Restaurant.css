@@ -1,0 +1,37 @@
+#content-appliance {
+  background-color: #ffffff;
+  display: inline-flex;
+  padding: 17px;
+  align-items: center;
+  height: fit-content;
+}
+.lab {
+  display: block;
+  font-size: smaller;
+}
+.date-pick {
+  height: auto;
+}
+.btn {
+  margin: "8px 0px";
+}
+.btn:hover {
+  background-color: #b61010;
+  transition: 0.7s;
+  color: red;
+}
+.btn:focus {
+  color: red;
+}
+.buttonAppliance {
+  text-align: end;
+  background-color: #e5f0ff;
+}
+.space {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+  text-align: center;
+  color: rgb(5, 5, 13);
+  opacity: 70%;
+}
